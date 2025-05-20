@@ -1,0 +1,6 @@
+C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\bin\Debug\BE.dll
+C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\bin\Debug\BE.pdb
+C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.dll
+C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.pdb
