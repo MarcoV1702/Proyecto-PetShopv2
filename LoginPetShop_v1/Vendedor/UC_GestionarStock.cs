@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LoginPetShop_v1
+namespace LoginPetShop_v1.Vendedor
 {
-    public partial class formvendedor : Form
+    public partial class UC_GestionarStock : UserControl
     {
-        public formvendedor()
+        public UC_GestionarStock()
         {
             InitializeComponent();
         }

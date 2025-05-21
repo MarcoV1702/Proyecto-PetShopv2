@@ -131,6 +131,7 @@
             this.panelContenedorAdmin.Name = "panelContenedorAdmin";
             this.panelContenedorAdmin.Size = new System.Drawing.Size(600, 450);
             this.panelContenedorAdmin.TabIndex = 1;
+            this.panelContenedorAdmin.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContenedorAdmin_Paint);
             // 
             // AdminInicio
             // 

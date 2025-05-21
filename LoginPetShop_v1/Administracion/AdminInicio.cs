@@ -28,5 +28,10 @@ namespace LoginPetShop_v1.Administracion
         {
             CargarUserControl(new AdministracionDeRol()); 
         }
+
+        private void panelContenedorAdmin_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
