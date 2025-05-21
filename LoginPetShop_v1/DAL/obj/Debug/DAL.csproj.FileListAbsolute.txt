@@ -7,3 +7,12 @@ C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetSh
 C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\DAL\obj\Debug\DAL.dll
 C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\DAL\obj\Debug\DAL.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\bin\Debug\DAL.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\bin\Debug\DAL.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\bin\Debug\BE.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\bin\Debug\BE.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\obj\Debug\DAL.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\DAL\obj\Debug\DAL.pdb

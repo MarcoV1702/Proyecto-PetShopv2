@@ -1,17 +1,21 @@
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\LoginPetShop_v1.exe.config
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\LoginPetShop_v1.exe
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\LoginPetShop_v1.pdb
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.csproj.AssemblyReference.cache
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.Properties.Resources.resources
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.csproj.GenerateResource.cache
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.csproj.CoreCompileInputs.cache
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.exe
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.pdb
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BE.dll
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BLL.dll
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\DAL.dll
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BE.pdb
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BLL.pdb
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\DAL.pdb
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.formInicio.resources
-C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPet.3A9A267A.Up2Date
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\LoginPetShop_v1.exe.config
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\LoginPetShop_v1.exe
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\LoginPetShop_v1.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BE.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BLL.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\DAL.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BE.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\BLL.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\bin\Debug\DAL.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.formInicio.resources
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.Properties.Resources.resources
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.Veterinario.VeterinarioInicio.resources
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPet.3A9A267A.Up2Date
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.exe
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.exe.config
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.Veterinario.CrearFichaMascota.resources
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\LoginPetShop_v1\obj\Debug\LoginPetShop_v1.Veterinario.HistorialMedico.resources

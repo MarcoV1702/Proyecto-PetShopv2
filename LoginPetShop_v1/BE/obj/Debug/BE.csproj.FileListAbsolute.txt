@@ -4,3 +4,9 @@ C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetSh
 C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.dll
 C:\Users\chiguas\Desktop\enzito\FACU\TEC. PROG\PRACTICAS\LoginAlumnos\LoginPetShop_v1\BE\obj\Debug\BE.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\BE\bin\Debug\BE.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\BE\bin\Debug\BE.pdb
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\BE\obj\Debug\BE.dll
+C:\Users\Matias\Desktop\Facultad\Tareas Tecnicas de programacion\PetShop---T-cnicas-de-Programacion\LoginPetShop_v1\BE\obj\Debug\BE.pdb
