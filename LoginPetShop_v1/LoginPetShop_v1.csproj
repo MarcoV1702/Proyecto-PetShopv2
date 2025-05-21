@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -57,6 +58,18 @@
     </Compile>
     <Compile Include="Administracion\AdministracionDeRol.Designer.cs">
       <DependentUpon>AdministracionDeRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\UC_ConfigurarAlertas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administracion\UC_ConfigurarAlertas.Designer.cs">
+      <DependentUpon>UC_ConfigurarAlertas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\UC_VerEstadisticas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administracion\UC_VerEstadisticas.Designer.cs">
+      <DependentUpon>UC_VerEstadisticas.cs</DependentUpon>
     </Compile>
     <Compile Include="formInicio.cs">
       <SubType>Form</SubType>
@@ -89,6 +102,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Administracion\AdministracionDeRol.resx">
       <DependentUpon>AdministracionDeRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\UC_ConfigurarAlertas.resx">
+      <DependentUpon>UC_ConfigurarAlertas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\UC_VerEstadisticas.resx">
+      <DependentUpon>UC_VerEstadisticas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="formInicio.resx">
       <DependentUpon>formInicio.cs</DependentUpon>

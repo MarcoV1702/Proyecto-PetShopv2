@@ -57,6 +57,11 @@ namespace LoginPetShop_v1
                     Form formGerente = new Gerente.GerenteInicio();
                     formGerente.Show();
                 }
+                else if (usuarioLogeado.NombreUsuario == "vendedor")
+                {
+                    Form formvendedor = new formvendedor();
+                    formvendedor.Show();
+                }
             }
             else
             {
