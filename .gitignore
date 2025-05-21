@@ -5,12 +5,18 @@
 *.suo
 *.userosscache
 *.sln.docstates
+*.vsidx
+UpgradeLog*.htm
 ## Archivos de compilación ##
+**/bin/
+**/obj/
 BLL/bin/
 DAL/bin/
+BE/bin/
 LoginPetShop_v1/bin/
 BLL/obj/
 DAL/obj/
+BE/obj/
 LoginPetShop_v1/obj/
 [Bb]uild/
 [Bb]uild[Ll]og.*
