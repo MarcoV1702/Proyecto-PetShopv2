@@ -44,6 +44,7 @@
             // 
             // panelLateralAdmin
             // 
+            this.panelLateralAdmin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.panelLateralAdmin.Controls.Add(this.btnSupervisarCambios);
             this.panelLateralAdmin.Controls.Add(this.btnVerEstadisticas);
             this.panelLateralAdmin.Controls.Add(this.btnConfigurarAlertas);
@@ -57,43 +58,56 @@
             // 
             // btnSupervisarCambios
             // 
+            this.btnSupervisarCambios.BackColor = System.Drawing.Color.White;
+            this.btnSupervisarCambios.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSupervisarCambios.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnSupervisarCambios.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSupervisarCambios.Location = new System.Drawing.Point(0, 325);
             this.btnSupervisarCambios.Name = "btnSupervisarCambios";
             this.btnSupervisarCambios.Size = new System.Drawing.Size(200, 65);
             this.btnSupervisarCambios.TabIndex = 4;
             this.btnSupervisarCambios.Text = "Supervisar Cambios";
-            this.btnSupervisarCambios.UseVisualStyleBackColor = true;
+            this.btnSupervisarCambios.UseVisualStyleBackColor = false;
             // 
             // btnVerEstadisticas
             // 
+            this.btnVerEstadisticas.BackColor = System.Drawing.Color.White;
+            this.btnVerEstadisticas.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnVerEstadisticas.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnVerEstadisticas.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVerEstadisticas.Location = new System.Drawing.Point(0, 260);
             this.btnVerEstadisticas.Name = "btnVerEstadisticas";
             this.btnVerEstadisticas.Size = new System.Drawing.Size(200, 65);
             this.btnVerEstadisticas.TabIndex = 3;
             this.btnVerEstadisticas.Text = "Ver Estadisticas";
-            this.btnVerEstadisticas.UseVisualStyleBackColor = true;
+            this.btnVerEstadisticas.UseVisualStyleBackColor = false;
+            this.btnVerEstadisticas.Click += new System.EventHandler(this.btnVerEstadisticas_Click);
             // 
             // btnConfigurarAlertas
             // 
+            this.btnConfigurarAlertas.BackColor = System.Drawing.Color.White;
+            this.btnConfigurarAlertas.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnConfigurarAlertas.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnConfigurarAlertas.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnConfigurarAlertas.Location = new System.Drawing.Point(0, 192);
             this.btnConfigurarAlertas.Name = "btnConfigurarAlertas";
             this.btnConfigurarAlertas.Size = new System.Drawing.Size(200, 68);
             this.btnConfigurarAlertas.TabIndex = 2;
             this.btnConfigurarAlertas.Text = "Configurar Alertas";
-            this.btnConfigurarAlertas.UseVisualStyleBackColor = true;
+            this.btnConfigurarAlertas.UseVisualStyleBackColor = false;
             // 
             // btnAdminstrarRoles
             // 
+            this.btnAdminstrarRoles.BackColor = System.Drawing.Color.White;
+            this.btnAdminstrarRoles.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAdminstrarRoles.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnAdminstrarRoles.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdminstrarRoles.Location = new System.Drawing.Point(0, 121);
             this.btnAdminstrarRoles.Name = "btnAdminstrarRoles";
             this.btnAdminstrarRoles.Size = new System.Drawing.Size(200, 71);
             this.btnAdminstrarRoles.TabIndex = 1;
             this.btnAdminstrarRoles.Text = "Administrar Roles";
-            this.btnAdminstrarRoles.UseVisualStyleBackColor = true;
+            this.btnAdminstrarRoles.UseVisualStyleBackColor = false;
             this.btnAdminstrarRoles.Click += new System.EventHandler(this.btnAdminstrarRoles_Click);
             // 
             // panelTopAdmin
@@ -117,20 +131,22 @@
             // lblAdminTitulo
             // 
             this.lblAdminTitulo.AutoSize = true;
-            this.lblAdminTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAdminTitulo.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAdminTitulo.Location = new System.Drawing.Point(3, 60);
             this.lblAdminTitulo.Name = "lblAdminTitulo";
-            this.lblAdminTitulo.Size = new System.Drawing.Size(107, 20);
+            this.lblAdminTitulo.Size = new System.Drawing.Size(118, 19);
             this.lblAdminTitulo.TabIndex = 0;
             this.lblAdminTitulo.Text = "Administrador";
             // 
             // panelContenedorAdmin
             // 
+            this.panelContenedorAdmin.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.panelContenedorAdmin.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelContenedorAdmin.Location = new System.Drawing.Point(200, 0);
             this.panelContenedorAdmin.Name = "panelContenedorAdmin";
             this.panelContenedorAdmin.Size = new System.Drawing.Size(600, 450);
             this.panelContenedorAdmin.TabIndex = 1;
+            this.panelContenedorAdmin.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContenedorAdmin_Paint);
             // 
             // AdminInicio
             // 

@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,17 +59,47 @@
     <Compile Include="Administracion\AdministracionDeRol.Designer.cs">
       <DependentUpon>AdministracionDeRol.cs</DependentUpon>
     </Compile>
+    <Compile Include="Administracion\UC_ConfigurarAlertas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administracion\UC_ConfigurarAlertas.Designer.cs">
+      <DependentUpon>UC_ConfigurarAlertas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\UC_VerEstadisticas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administracion\UC_VerEstadisticas.Designer.cs">
+      <DependentUpon>UC_VerEstadisticas.cs</DependentUpon>
+    </Compile>
     <Compile Include="formInicio.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="formInicio.Designer.cs">
       <DependentUpon>formInicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="Vendedor\formvendedor.cs">
+    <Compile Include="Vendedor\UC_GestionarStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vendedor\UC_GestionarStock.Designer.cs">
+      <DependentUpon>UC_GestionarStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\VendedorHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Vendedor\formvendedor.Designer.cs">
-      <DependentUpon>formvendedor.cs</DependentUpon>
+    <Compile Include="Vendedor\VendedorHome.Designer.cs">
+      <DependentUpon>VendedorHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\VendedorInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedor\VendedorInicio.Designer.cs">
+      <DependentUpon>VendedorInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\UC_RegistrarVenta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vendedor\UC_RegistrarVenta.Designer.cs">
+      <DependentUpon>UC_RegistrarVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="Veterinario\formveterinario.cs">
       <SubType>Form</SubType>
@@ -90,11 +121,23 @@
     <EmbeddedResource Include="Administracion\AdministracionDeRol.resx">
       <DependentUpon>AdministracionDeRol.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\UC_ConfigurarAlertas.resx">
+      <DependentUpon>UC_ConfigurarAlertas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\UC_VerEstadisticas.resx">
+      <DependentUpon>UC_VerEstadisticas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="formInicio.resx">
       <DependentUpon>formInicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Vendedor\formvendedor.resx">
-      <DependentUpon>formvendedor.cs</DependentUpon>
+    <EmbeddedResource Include="Vendedor\UC_GestionarStock.resx">
+      <DependentUpon>UC_GestionarStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedor\VendedorHome.resx">
+      <DependentUpon>VendedorHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedor\VendedorInicio.resx">
+      <DependentUpon>VendedorInicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -105,6 +148,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Vendedor\UC_RegistrarVenta.resx">
+      <DependentUpon>UC_RegistrarVenta.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

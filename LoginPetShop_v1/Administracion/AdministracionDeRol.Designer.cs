@@ -36,6 +36,7 @@
             this.chboxPermiso2 = new System.Windows.Forms.CheckBox();
             this.chboxEditarRoles = new System.Windows.Forms.CheckBox();
             this.lblEdicionDeRol = new System.Windows.Forms.Label();
+            this.lblPermisosTit = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnEliminarRol
@@ -113,16 +114,27 @@
             // 
             this.lblEdicionDeRol.AutoSize = true;
             this.lblEdicionDeRol.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEdicionDeRol.Location = new System.Drawing.Point(129, 143);
+            this.lblEdicionDeRol.Location = new System.Drawing.Point(222, 38);
             this.lblEdicionDeRol.Name = "lblEdicionDeRol";
             this.lblEdicionDeRol.Size = new System.Drawing.Size(128, 20);
             this.lblEdicionDeRol.TabIndex = 8;
             this.lblEdicionDeRol.Text = "Edicion de Roles";
             // 
+            // lblPermisosTit
+            // 
+            this.lblPermisosTit.AutoSize = true;
+            this.lblPermisosTit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPermisosTit.Location = new System.Drawing.Point(129, 173);
+            this.lblPermisosTit.Name = "lblPermisosTit";
+            this.lblPermisosTit.Size = new System.Drawing.Size(74, 20);
+            this.lblPermisosTit.TabIndex = 16;
+            this.lblPermisosTit.Text = "Permisos";
+            // 
             // AdministracionDeRol
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.lblPermisosTit);
             this.Controls.Add(this.btnEliminarRol);
             this.Controls.Add(this.btnAñadirRol);
             this.Controls.Add(this.btnActualizarPermisos);
@@ -148,5 +160,6 @@
         private System.Windows.Forms.CheckBox chboxPermiso2;
         private System.Windows.Forms.CheckBox chboxEditarRoles;
         private System.Windows.Forms.Label lblEdicionDeRol;
+        private System.Windows.Forms.Label lblPermisosTit;
     }
 }
